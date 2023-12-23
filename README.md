@@ -9,3 +9,4 @@ Some of the my goals to create this repo:
 
 # Table of Content
 + [RFID Notes](RFID/RFID.md)
++ [Stepper Motor Notes](StepperMotor/Stepper.md)
