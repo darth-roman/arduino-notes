@@ -8,7 +8,12 @@ Some of the my goals to create this repo:
 * [ ] Ease for revision later on
 
 # Table of Content
+
+## Notes
 + [RFID Notes](RFID/RFID.md)
 + [Stepper Motor Notes](StepperMotor/Stepper.md)
 + [ArduinoJson Lib](DHT11_JSON/DHT11JSON.md)
 + [Ultrasonic Notes](Ultrasonic/Ultrasonic.md)
+
+## Cool Basic Projects lol
+* [Give Me Space](BasicProject/GiveMeSpace/GiveMeSpaceProject.md)

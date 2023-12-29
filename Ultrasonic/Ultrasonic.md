@@ -2,7 +2,7 @@
 I am using the HC-SR04 Ultrasonic sensor.
 We can use this sensor in many projects, especially the ones related to distance measuring, 
 
-<img src="img/image10.png" width="200">
+<img src="img/image10.png" width="500">
 
 + 4 Pins
     * 1 GND, 1 VCC (5V)
@@ -22,4 +22,7 @@ We can use this sensor in many projects, especially the ones related to distance
 6. Therefore the `distance = (duration*0.343)/2`.
 7. And like that, you can reveive the distance of the objects facing the sensor.
 
+
+The final circuit: 
+<img src="img/image1457.png" width="600">
 
